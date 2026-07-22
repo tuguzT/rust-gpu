@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["Capability","ConditionalCapabilityINTEL","ConditionalEntryPointINTEL","ConditionalExtensionINTEL","CooperativeMatrixPerElementOpNV","EntryPoint","ExecutionMode","ExecutionModeId","ExtInst","ExtInstImport","ExtInstWithForwardRefsKHR","Extension","Function","FunctionCall","FunctionEnd","FunctionParameter","MemoryModel"]};

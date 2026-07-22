@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["is_abort","is_block_terminator","is_branch","is_location_debug","is_return","is_return_or_abort","is_variable"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["buffer_load_intrinsic","buffer_store_intrinsic"],"struct":["ByteAddressableBuffer"]};
